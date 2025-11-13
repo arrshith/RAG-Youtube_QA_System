@@ -13,3 +13,10 @@ __pycache__/
 # IDE settings
 .vscode/
 .idea/
+
+# Python cache
+__pycache__/
+
+# RAG / vectorstore artifacts
+saved_indexes/
+
